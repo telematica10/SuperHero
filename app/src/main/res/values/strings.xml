@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="main_error_get">Error al consultar datos.</string>
+    <string name="main_error_unknown">Error desconocido.</string>
+    <string name="detail_hero_title">"Detalle "</string>
+</resources>
